@@ -16,7 +16,7 @@
     "@types/node": "^18.19.75",
     "@vuepress/client": "2.0.0-rc.19",
     "@vuepress/plugin-docsearch": "2.0.0-rc.74",
-    "@vuepress/plugin-watermark": "2.0.0-rc.27",
+    "@vuepress/plugin-watermark": "2.0.0-rc.108",
     "@vuepress/utils": "2.0.0-rc.19",
     "artplayer": "^5.2.2",
     "chart.js": "^4.4.7",

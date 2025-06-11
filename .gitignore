@@ -4,6 +4,7 @@ node_modules
 yarn-error.log
 .yalc
 yalc.lock
+pnpm-lock.yaml
 
 # Vuepress Cache
 .cache/
@@ -12,4 +13,5 @@ yalc.lock
 # Vuepress Output
 dist/
 
+.idea/
 .VSCodeCounter
