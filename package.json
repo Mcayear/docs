@@ -14,10 +14,10 @@
   },
   "devDependencies": {
     "@types/node": "^18.19.75",
-    "@vuepress/client": "2.0.0-rc.19",
-    "@vuepress/plugin-docsearch": "2.0.0-rc.74",
+    "@vuepress/client": "2.0.0-rc.23",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.108",
     "@vuepress/plugin-watermark": "2.0.0-rc.108",
-    "@vuepress/utils": "2.0.0-rc.19",
+    "@vuepress/utils": "2.0.0-rc.23",
     "artplayer": "^5.2.2",
     "chart.js": "^4.4.7",
     "dashjs": "^4.7.4",
@@ -30,11 +30,11 @@
     "naive-ui": "^2.41.0",
     "sass": "^1.84.0",
     "vue": "^3.5.13",
-    "vuepress": "2.0.0-rc.19",
-    "vuepress-theme-hope": "2.0.0-rc.71"
+    "vuepress": "2.0.0-rc.23",
+    "vuepress-theme-hope": "2.0.0-rc.91"
   },
   "dependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@vuepress/bundler-vite": "2.0.0-rc.23",
     "markdown-it": "^14.1.0"
   }
 }
