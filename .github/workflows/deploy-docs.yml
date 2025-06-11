@@ -35,7 +35,7 @@ jobs:
       - name: Install Deps
         run: pnpm install --frozen-lockfile
 
-      - name: Build Docs
+      - name: Build Doc
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
